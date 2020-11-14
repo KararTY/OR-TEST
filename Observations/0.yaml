@@ -2,5 +2,5 @@
 label: 'No power'
 description:
 solutions:
-- 'Check power outlet'
-- 'Check charger cable'
+- 0
+- 1
