@@ -2,7 +2,7 @@
 
 ## Relation
 Product has problems.
-Problems has solutions.
+Problems have solutions.
 Solutions may have links.
 
 
