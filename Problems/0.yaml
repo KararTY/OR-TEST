@@ -1,6 +1,6 @@
----
-label: 'No power'
+label: No power
 description: ''
 solutions:
-- '0'
-- '1'
+  - '0'
+  - '1'
+  - '2'
