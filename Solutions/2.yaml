@@ -1,5 +1,5 @@
----
-label: 'Check HDMI cable'
-description: 'Make sure the cable is plugged into the HDMI input on your monitor.'
+label: Check HDMI cable
+description: Make sure the cable is plugged into the HDMI input on your monitor.
 links:
-- '1'
+  - '1'
+  - '2'
