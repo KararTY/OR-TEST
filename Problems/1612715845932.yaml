@@ -1,3 +1,4 @@
 label: Touchpad doesn't work
 description: The laptop's touchpad doesn't work.
-solutions: []
+solutions:
+  - '1613320316566'
