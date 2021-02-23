@@ -1,6 +1,0 @@
-label: SMC RESET L low (1.1V, should be 3.42V)
-description: >-
-  Caused by corrosion on u5110 and jtag. U5110 reflowed and JTAG connector
-  removed ->fixed.
-links:
-  - '1614099575595'

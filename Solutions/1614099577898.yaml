@@ -1,7 +1,0 @@
-label: ''
-description: >-
-  Caused by c7320 has corroded pad so u7320 had no input on pin 6 so no vcore
-  was being produced on one of the power phases. redoing the corroded trace with
-  a jumper wire and replacing the U7320 chip solved the problem.
-links:
-  - '1614099577896'

@@ -1,6 +1,0 @@
-label: bad battery
-description: >-
-  Caused by bad battery. Was worked on by other shop before, checked PPBUS_G3H,
-  checked Q7065, test with good battery->fixed.
-links:
-  - '1614099576180'
