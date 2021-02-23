@@ -1,0 +1,6 @@
+label: Blown fuse on PPBUS_G3H
+description: >-
+  Caused by bad capacitor (cracked). Cracked capacitor, drawing 36mA on charger,
+  replaced capacitor and fuse->flixed.
+links:
+  - '1614099581991'

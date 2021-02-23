@@ -1,0 +1,6 @@
+label: Stuck at 150mA from Charger
+description: >-
+  Caused by bad r8156 and r8153 -> s0pgd_c fail. clean up and replace R8156 and
+  R8153 and 376S0854.
+links:
+  - '1614099586726'

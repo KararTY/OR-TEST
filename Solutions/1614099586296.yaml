@@ -1,0 +1,4 @@
+label: PP3V42 present, 14mA power draw, no power -> TPS51980 bad
+description: Caused by debris/corrosion under tps51980. TPS51980 replaced -> fixed.
+links:
+  - '1614099586294'

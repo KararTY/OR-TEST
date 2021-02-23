@@ -1,0 +1,11 @@
+description: ''
+number: 820-2915
+year: '2011'
+modelNumber: A1286
+modelID: MacBookPro8,2
+emc: EMC 2353-1
+problems:
+  - '1614099589495'
+  - '1614099589637'
+  - '1614099589780'
+  - '1614099590844'

@@ -1,0 +1,6 @@
+label: Corrosion at backlight enable voltage divider.
+description: >-
+  Caused by liquid damage. Backlight area was cleaned up and U7701/8550 was
+  replaced, and missing resistor was replaced and this fixed the issue..
+links:
+  - '1614099587808'
