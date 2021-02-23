@@ -1,7 +1,0 @@
-label: PP3V3_G3H missing
-description: >-
-  Caused by short on the input to pp3v3_g3h creation circuit. 166Ohm short to
-  ground on PPVIN_G3H_P3V3G3H (input PP3V3_G3H creation circuit), 3 capacitors
-  and 1 diode replaced->fixed.
-links:
-  - '1614101902640'

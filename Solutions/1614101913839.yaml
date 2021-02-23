@@ -1,7 +1,0 @@
-label: Cracked capacitor which also took out the fuse F7140.
-description: >-
-  Caused by defective component. PPBUS_G3H did not make it across fuse F7140.
-  One side of fuse was shorted to ground. Defective (cracked) capacitor located
-  and removed and the short was gone. Cap and fuse replaced. Fixed.
-links:
-  - '1614101913836'

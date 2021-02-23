@@ -1,0 +1,6 @@
+label: 5V 20-30mA draw
+description: >-
+  Caused by bad solder of r3001 resistor (not passing pp3v3_g3h through to one
+  of the cd3215s). Retina, resoldering R3001 fixed  the issue.
+links:
+  - '1614102136791'

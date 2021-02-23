@@ -1,0 +1,6 @@
+label: CD3215 corroded
+description: >-
+  Caused by liquid damage. Charger stuck at 5V taking 27mA, CD3215
+  reflowed->fixed.
+links:
+  - '1614102129734'

@@ -1,0 +1,6 @@
+label: PP3V3_G3H missing
+description: >-
+  Caused by bad isl9239. Charger stuck at 5V, 0mA, board worked on by other
+  company, ISL9239 replaced->fixed.
+links:
+  - '1614102134693'

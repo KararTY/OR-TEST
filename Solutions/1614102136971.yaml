@@ -1,0 +1,6 @@
+label: PP5V_S3 shorted to ground
+description: >-
+  Caused by bad c6213 capacitor shorting to ground. Replacement of C6213
+  capacitor fixed the issue.
+links:
+  - '1614102136969'

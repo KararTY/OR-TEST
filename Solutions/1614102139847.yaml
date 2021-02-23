@@ -1,0 +1,4 @@
+label: Current sense resistor R7052 had gone bad.
+description: Caused by defective component. R7052 was replaced and this fixed the issue..
+links:
+  - '1614102139845'

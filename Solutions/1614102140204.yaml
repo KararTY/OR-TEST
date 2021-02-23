@@ -1,0 +1,6 @@
+label: ''
+description: >-
+  Caused by defective mosfet/buck converter in cpu voltage circuitry.. Q7510,
+  Q7520, Q7550 and U7400 replaced and this fixed the Macbook..
+links:
+  - '1614102140202'
