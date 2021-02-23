@@ -1,4 +1,0 @@
-label: R4830 (0Ohm resistor) was 37KOhm
-description: Caused by bad 0ohm resistor. Replaced resistor R4830->fixed.
-links:
-  - '1614102139472'

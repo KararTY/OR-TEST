@@ -1,0 +1,7 @@
+label: PPBUS_G3H short to ground
+description: |-
+  Caused by bad capacitor
+
+  Capacitor replaced->fixed
+links:
+  - '1614102507170'
