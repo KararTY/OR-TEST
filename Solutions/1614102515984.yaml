@@ -1,7 +1,0 @@
-label: Corrosion on JTAG Connector
-description: |-
-  Caused by liquid damage
-
-  TPS51980 was replaced and related corroded capacitors were replaced.
-links:
-  - '1614102515981'

@@ -1,7 +1,0 @@
-label: PP3V42_G3H short to ground
-description: |-
-  Caused by liquid damage
-
-  66mA on charger, replaced capacitors next to SMC->fixed
-links:
-  - '1614102506509'
