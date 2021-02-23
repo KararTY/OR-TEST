@@ -1,0 +1,11 @@
+description: ''
+number: 820-00875
+year: '2016'
+modelNumber: A1708
+modelID: MacBookPro13,1
+emc: EMC 2978
+problems:
+  - '1614098599404'
+  - '1614098599624'
+  - '1614098600194'
+  - '1614098604310'
