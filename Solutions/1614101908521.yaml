@@ -1,0 +1,9 @@
+label: >-
+  No power, 6mA power draw, no green light on charger, corrosion visible on
+  D7012
+description: >-
+  Caused by liquid damage. Corrosion cleaned off D7012 -> turned on. Definitive
+  repair: clean and repair solder joints in corroded area. D7012 prevents 18V
+  from charger going into PPBUS_G3H..
+links:
+  - '1614101908520'

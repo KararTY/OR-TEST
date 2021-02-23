@@ -1,0 +1,4 @@
+label: Stuck at 5V on the USB-C charger even with PP3v3_G3H was present
+description: Caused by bad cd3215c00 chips. Replaced both CD3215C00 chips.
+links:
+  - '1614101913129'

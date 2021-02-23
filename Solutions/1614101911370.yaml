@@ -1,0 +1,6 @@
+label: 1.7 V on PPBUS
+description: >-
+  Caused by liquid damage. fixed by taking out board, removing some contaminants
+  on it and replugging everything back in.
+links:
+  - '1614101911368'

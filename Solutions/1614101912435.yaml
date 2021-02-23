@@ -1,0 +1,7 @@
+label: Missing PM_SLP_S4_L
+description: >-
+  Caused by misaligned cd3211, bad trace of resistor in spi rom area.
+  Resoldering CD3211, cleaning and resoldering resistors in SPI ROM area, and
+  ultrasonic fixed the issue.
+links:
+  - '1614101912433'

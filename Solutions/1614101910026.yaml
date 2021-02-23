@@ -1,0 +1,6 @@
+label: Corrosion at U5110
+description: >-
+  Caused by liquid damage. SMC_RESET_L 0.8V, U5110 replaced (still not turning
+  on), JTAG removed->fixed.
+links:
+  - '1614101910025'

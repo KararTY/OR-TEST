@@ -1,0 +1,7 @@
+label: No power, 6mA power draw, no green light on charger, 8.1V on PPBUS_G3H
+description: >-
+  Caused by liquid damage. Minor corrosion found around/under SMC. SMC reflowed,
+  some corroded traces fixed with wires, some corroded caps cleaned up ->
+  fixed..
+links:
+  - '1614101908890'
